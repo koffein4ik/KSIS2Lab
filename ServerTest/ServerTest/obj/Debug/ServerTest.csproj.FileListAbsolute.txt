@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ServerTest\ServerTest\bin\Debug\ServerTest.exe.config
+C:\Users\Admin\source\repos\ServerTest\ServerTest\bin\Debug\ServerTest.exe
+C:\Users\Admin\source\repos\ServerTest\ServerTest\bin\Debug\ServerTest.pdb
+C:\Users\Admin\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.CopyComplete
+C:\Users\Admin\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.exe
+C:\Users\Admin\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.pdb
+C:\Users\Admin\source\repos\ServerTest\ServerTest\bin\Debug\ClientServer.dll
+C:\Users\Admin\source\repos\ServerTest\ServerTest\bin\Debug\ClientServer.pdb
